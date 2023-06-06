@@ -2,6 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile! I'm an AI student with a strong affinity for both artificial intelligence and full-stack development.</h3>
 
 <p align="left" style="margin: 2rem; 0;">
+
 - 🌱 I’m currently learning **Neural Networks with PyTorch**
 
 - 📫 How to reach me **cadenn99@gmail.com**
