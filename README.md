@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left" style="font-weight: bold">Languages and Tools:</h3>
-<div style="display: flex; gap: 1rem; flex-direction: column; background-color: white; border-radius: 0.4rem; padding: 1rem; color: black; margin-bottom: 1rem">
+<div style="display: flex; gap: 1rem; flex-direction: column;">
 <div>
     <h4>Programming Skills:</h4>
     <div style="display: flex; gap: 0.5rem; flex-wrap: wrap">
@@ -81,4 +81,4 @@
 </div>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cadenn99&" alt="cadenn99" style="width: 100%"/></p>
+<p style="width: 100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cadenn99&" alt="cadenn99"/></p>
