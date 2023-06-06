@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caden</h1>
-<h3 align="center">A passionate programmer from the Netherlands</h3>
+<h3 align="center">A passionprogrammer from</h3>
 
 - 🌱 I’m currently learning **Neural Networks with PyTorch**
 
@@ -15,5 +15,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadenn99&show_icons=true&locale=en&layout=compact" alt="cadenn99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadenn99&show_icons=true&locale=en" alt="cadenn99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cadenn99&" alt="cadenn99" /></p>
+
 
 
