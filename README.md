@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caden</h1>
-<h3 align="center">A passionprogrammer from</h3>
+<h3 align="center">A passionate programmer from the Netherlands</h3>
 
 - 🌱 I’m currently learning **Neural Networks with PyTorch**
 
