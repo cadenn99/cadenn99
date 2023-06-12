@@ -3,7 +3,7 @@
 
 <p align="left" style="margin: 2rem; 0;">
 
-- 🌱 I’m currently learning **Neural Networks with PyTorch**
+- 🌱 I’m currently learning **Neural Networks with PyTorch (and from scratch)**
 
 - 📫 How to reach me **cadenn99@gmail.com**
 </p>
