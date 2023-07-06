@@ -82,3 +82,5 @@
 </div>
 
 <p style="width: 100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cadenn99&" alt="cadenn99"/></p>
+
+<p style="width: 100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cadenn99&show_icons=true&theme=transparent" alt="cadenn99"/></p>
